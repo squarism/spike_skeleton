@@ -7,6 +7,8 @@ Testing tools are included just for iteration speed.  even if you aren't writing
 
 # Go.
  * Git clone this thing.
+   * git clone https://github.com/squarism/spike_skeleton.git my_awesome_spike
+   * cd my_awesome_spike
  * Run `bundle` (this project comes with an rvm gemset)
  * Run `guard`
  * Edit lib/spike.rb
