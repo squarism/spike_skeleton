@@ -1,8 +1,9 @@
 # guard options are too long for the rspec line, so set them here
 guard_options = {
-  :all_after_pass => false,
-  :all_on_start => false,
-  :cli => '-c -f doc'
+  cli: "--color --format=doc",
+  all_after_pass: false,
+  all_on_start: false,
+  keep_failed: false,
 }
 
 guard 'rspec', guard_options do
