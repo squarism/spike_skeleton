@@ -6,13 +6,13 @@ source "https://rubygems.org"
 
 # Dev tools
 group :development do
-  gem 'rspec'
+  gem 'rspec', "~> 2.14.1"
 
   gem 'pry'
   gem 'pry-nav'
   gem 'pry-doc'
-  gem 'guard'
-  gem 'guard-rspec'
+  gem 'guard', "~> 2.2.4"
+  gem 'guard-rspec', "~> 4.1.0"
 
   # the proper way to include OS fs event hooks
   gem 'rb-inotify', :require => false
