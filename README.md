@@ -1,4 +1,4 @@
-![image](https://raw.github.com/squarism/spike_skeleton/master/courage.png)
+![image](https://raw.github.com/squarism/spike_skeleton/images/courage.png)
 
 # Get Brave.
 This is a spiking skeleton, used for spiking on something you don't know.  This is primary supposed to be used on the command line (ie: some simple library where you can run it without a browser).
