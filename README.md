@@ -5,9 +5,6 @@ This is a spiking skeleton, used for spiking on something you don't know.  This 
 
 Testing tools are included just for iteration speed.  even if you aren't writing tests, using tools that watch your code for changes is the fastest iteration in the end.
 
-... *(unless you are @garybernhardt and have magical powers)*
-
-
 # Go Spike.
  * Git clone this thing.
    * git clone https://github.com/squarism/spike_skeleton.git my_awesome_spike
