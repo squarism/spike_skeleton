@@ -8,5 +8,6 @@ require 'spike'
 describe Foo do
   it "does something I'm trying to learn about" do
     pending "learning"
+    fail
   end
 end

@@ -7,13 +7,3 @@
 class Foo
   puts "I'm learning about Foo"
 end
-
-# main
-puts "but writing tests using a Main() style method gets old."
-
-
-
-# So I'll eventually move to RSpec test workflow for faster iteration
-
-# class Foo
-# end
