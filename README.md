@@ -7,11 +7,11 @@ Testing tools are included just for iteration speed.  even if you aren't writing
 
 # Go Spike.
  * Git clone this thing.
-   * git clone https://github.com/squarism/spike_skeleton.git my_awesome_spike
-   * cd my_awesome_spike
+   * `git clone https://github.com/squarism/spike_skeleton.git my_awesome_spike`
+   * `cd my_awesome_spike`
  * Run `bundle` (this project comes with an rvm gemset)
- * Run `guard`
- * Edit lib/spike.rb
+ * Run `bundle exec guard`
+ * Edit `lib/spike.rb` and start hacking on what you want to learn
  * Spike until your learning is getting too complex.
  * Write a test in spec/spike_spec.rb
  * Keep spiking with tests.
